@@ -1,10 +1,10 @@
 # wyszukiwarki-legalnych-zrodel
 <p>Lista "wyszukiwarek legalnych źr&oacute;deł" płatnych stron wyszukujących wśr&oacute;d płatnych stron VOD</p>
-<table style="border-collapse: collapse; width: 100.624%; height: 13px;" border="1">
+<table style="border-collapse: collapse; width: 109.564%; height: 13px;" border="1">
 <tbody>
 <tr>
-<td style="width: 15.7025%;"><strong>Wyszukiwarka</strong></td>
-<td style="width: 59.2975%;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strona lustrzana<br /></strong></td>
+<td style="width: 21.1799%;"><strong>&nbsp;Wyszukiwarka</strong></td>
+<td style="width: 62.6278%;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strona lustrzana<br /></strong></td>
 </tr>
 </tbody>
 </table>
